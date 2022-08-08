@@ -1,0 +1,2 @@
+10^8 operações por segundo
+sort(s, s+n) = sort(&s[0], &s[n])

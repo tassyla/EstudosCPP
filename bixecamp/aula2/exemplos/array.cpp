@@ -1,4 +1,3 @@
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -24,6 +23,4 @@ int main() {
     s[0] = 'i';
     s[1] = 'm';
     s[2] = 'e';
-
-
 }

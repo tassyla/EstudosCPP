@@ -1,9 +1,8 @@
 #include <bits/stdc++.h>
-#include <string.h>
 
 using namespace std;
 
-#define max 10000
+#define MAX 10000
 
 void solve(){
   /** write your solution here **/
